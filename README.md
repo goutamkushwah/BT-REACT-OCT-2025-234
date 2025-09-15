@@ -64,16 +64,18 @@ src/
 ```
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Dashboard View
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+View)
+![Dashboard](public/screenshots/dashboard.png)
 *Main dashboard showing trip statistics, search/filter controls, and trip list*
 
 ### Add Trip Form
-![Add Trip](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Add+Trip+Form)
+![Add Trip](public/screenshots/add-trip.png)
 *Clean form interface for adding new trips with validation*
 
 ### Edit Trip Form
-![Edit Trip](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Edit+Trip+Form)
+![Edit Trip](public/screenshots/edit-trip.png)
 *Edit existing trip details with pre-populated form fields*
 
 ## 🎯 Usage
