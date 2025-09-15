@@ -69,15 +69,17 @@ src/
 ### Dashboard View
 ## 📸 Screenshots
 
-### Dashboard View
-### Dashboard View
-![Dashboard](trip-management/screenshot/dashboard(1).png)
+## 📸 Screenshots
 
-### Add Trip Form
-![Add Trip](trip-management/screenshot/dashboard(2).png)
+### Dashboard View
+![Dashboard](trip-management/screenshot/deshboard%20(1).png)
 
-### Edit Trip Form
-![Edit Trip](trip-management/screenshot/dashboard(3).png)
+### Dashboard View 2
+![Dashboard 2](trip-management/screenshot/deshboard%20(2).png)
+
+### Dashboard View 3
+![Dashboard 3](trip-management/screenshot/deshboard%20(3).png)
+
 
 ## 🎯 Usage
 
