@@ -70,16 +70,14 @@ src/
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](public/screenshot/deshboard%20(1).png)
-*Main dashboard showing trip statistics, search/filter controls, and trip list*
+### Dashboard View
+![Dashboard](./screenshot/dashboard(1).png)
 
 ### Add Trip Form
-![Add Trip](public/screenshot/deshboard%20(2).png)
-*Clean form interface for adding new trips with validation*
+![Add Trip](./screenshot/dashboard(2).png)
 
 ### Edit Trip Form
-![Edit Trip](public/screenshot/deshboard%20(3).png)
-*Edit existing trip details with pre-populated form fields*
+![Edit Trip](./screenshot/dashboard(3).png)
 
 ## 🎯 Usage
 
