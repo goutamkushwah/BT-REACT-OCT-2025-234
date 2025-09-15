@@ -71,13 +71,13 @@ src/
 
 ### Dashboard View
 ### Dashboard View
-![Dashboard](./screenshot/dashboard(1).png)
+![Dashboard](trip-management/screenshot/dashboard(1).png)
 
 ### Add Trip Form
-![Add Trip](./screenshot/dashboard(2).png)
+![Add Trip](trip-management/screenshot/dashboard(2).png)
 
 ### Edit Trip Form
-![Edit Trip](./screenshot/dashboard(3).png)
+![Edit Trip](trip-management/screenshot/dashboard(3).png)
 
 ## 🎯 Usage
 
