@@ -64,13 +64,6 @@ src/
 ```
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-### Dashboard View
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 ### Dashboard View
 ![Dashboard](trip-management/screenshot/deshboard%20(1).png)
 
